@@ -1,0 +1,17 @@
+This file lists the relevant contents of this folder which was extended from the following repo: https://github.com/fhalab/MLDE
+
+Modified files(s):
+ - ./Support/RunMlde/RunFuncs.py
+
+New file(s):
+ - ./al_utils.py
+ - ./utils.py
+ - ./run_AL.ipynb
+ - ./compare_results.ipynb
+
+Written Report:
+ - ./Maudgalya_FinalReport294.pdf
+
+All relevant data files are stored as npy and pickle files
+
+Please let me know if you have any questions. Thanks!
